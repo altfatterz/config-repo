@@ -1,2 +1,3 @@
 foo:
-  message: Szia
+  message: Hallo
+  secret: '{cipher}6050a8af7826c89dcd30c9046f484a5a169d27beb40a67db72440474c5cc6d77'
